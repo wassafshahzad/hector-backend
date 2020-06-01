@@ -16,4 +16,4 @@ You can play against the AI on the terminal as well,
 
 The front end of the code is available on [this repo](https://github.com/wassafshahzad/wassafshahzad.github.io)
 
-You can also play against the AI on the browser [here]()
+You can also play against the AI on the browser [here](https://wassafshahzad.github.io/)

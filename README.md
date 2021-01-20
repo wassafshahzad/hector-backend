@@ -1,4 +1,4 @@
-# Minimax Usign Python
+# Minimax Using Python
 
 This project is a python implementaion of minimax algorithm to solve a tic-tac-toe game.This project serves as a flask api to generate the move tree.
 The main code can be found in the AI directory.
